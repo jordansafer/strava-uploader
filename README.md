@@ -2,7 +2,8 @@
 
 ## Usage:
 ** Getting your data from logarun **
-TODO: write these instructions. tldr - get xml file from logarun front page, then convert xml to csv (I will upload a script I wrote for this)
+TODO: write these instructions. tldr - get xml file from logarun front page, then convert xml to csv 
+**(Use the script: parse_logarun_xml.py to convert)**
 
 ** Getting your CSV to Strava **
 1. First, you need to **register an application with the Strava API service.** Go to the [Strava API Management Page](https://www.strava.com/settings/api), and create a new application. Note the Client ID and Client Secret - you will need them later.
